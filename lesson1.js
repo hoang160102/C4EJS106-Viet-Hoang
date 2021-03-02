@@ -10,6 +10,19 @@
 //console.log(`Anh: ${Anh}`);
 
 //b
-//alert("Diem trung binh cua ${name} la : " = (${Toan} + ${Van} + ${Anh})%3);
+//let a = (Toan + Van + Anh)/3;
+//alert(`Diem trung binh cua ban la: ${a}`);
 
 //c
+//if (a<4){
+ //   alert(`kem`);
+//}
+//else if (a<6){
+  //  alert(`trung binh`);
+//}
+//else if (a<8){
+  //  alert(`kha`);
+//}
+//else {
+  //  alert(`gioi`);
+//}
