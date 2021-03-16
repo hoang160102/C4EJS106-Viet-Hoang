@@ -7,5 +7,8 @@
 // let numbers = myNumbers[Math.floor(Math.random()) * myNumbers.length]
 // console.log(myNumbers)
 // console.log(numbers)
-//ex3
-
+//ex3// 
+//web về game
+//1 người sẽ làm html, get infor
+// 1 người thiết đồ họa game
+// 1 người làm css
